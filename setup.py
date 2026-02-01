@@ -1,0 +1,9 @@
+from setuptools import find_packages, setup
+setup(
+    name='medical-chatbot',
+    version="0.1.1",
+    authon="Shuvo Biswas",
+    author_email="shuvobiswas61810@gmail.com",
+    packages=find_packages(),
+    install_requires=[]
+    )
